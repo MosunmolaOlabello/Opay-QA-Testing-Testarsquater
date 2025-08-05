@@ -10,8 +10,8 @@ This is a manual QA project executed during the Testarsquater program. I led the
 
 ## 📁 Project Files
 
-- 📝 [Product Requirements Document (PRD)](PRD/Opay_PRD.docx)
-- 🧪 [Test Plan](Test-Plan/Opay_Test_Plan.pdf)
+- 📝 [Product Requirements Document (PRD)](Opay_PRD.docx)
+- 🧪 [Test Plan](Opay_Test_plan.docx)
 - 📊🐞 [Test Cases & Bug Report Sheet](Opay_Test_Cases_&_Bug_Report.xlsx)
 - 📄 [Test Summary (PDF from Canva)](Test_Summary_&_Project_Presentation.pdf)
 
