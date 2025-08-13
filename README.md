@@ -1,5 +1,4 @@
-# Opay App – Manual QA Project (Testarsquater)
-
+# Opay App – Manual QA Project 
 This is a manual QA project executed during the Testarsquater program. I led the team, and we were selected as the winning group for best documentation and execution.
 
 ## ✅ Features Tested
